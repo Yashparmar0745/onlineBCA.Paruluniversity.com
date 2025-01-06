@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5E6CA;
+}
+.about-us {
+    background: #f5e6ca;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-us h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #000;
+}
+.about-us p {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+.about-us h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    margin-top: 20px;
+}
+.img-responsive {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.text-muted {
+    font-size: 14px;
+    color: #888;
+}
+
+.navbar{
+    background-color: #f5e1da;
+}
+
+footer.container-fluid{
+    background-color: #f5e1da;
+    padding: 34px;
+    margin-top: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
